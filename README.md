@@ -9,6 +9,6 @@ Quando eu cheguei na programação web era tudo table e se utilizava Dreamweaver
 
 ## Estudando
 
-- 👨‍🎓  ReactJS, Angular, NodeJS, TypeScript e Angular.
+- 👨‍🎓  ReactJS, Angular, NodeJS e TypeScript.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlongirardello)](https://github.com/marlongirardello/github-readme-stats)
